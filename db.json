@@ -32,4 +32,7 @@
         { "id": 23, "target": 15810, "bulan": "Nov", "realisasi":0, "regionalId": 2 },
         { "id": 24, "target": 15810, "bulan": "Des", "realisasi":0, "regionalId": 2 }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
