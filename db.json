@@ -3,8 +3,8 @@
     { "id": 1, "regional": "Regional 1" },
     { "id": 2, "title": "Regional 2" },
     { "id": 3, "title": "Regional 3" },
-        { "id": 4, "title": "Regional 4" },
-        { "id": 5, "title": "Regional 5" },
+    { "id": 4, "title": "Regional 4" },
+    { "id": 5, "title": "Regional 5" },
   ],
   "sla": [
         { "id": 1, "target": 15810, "bulan": "Jan", "realisasi":0, "regionalId": 1 },
