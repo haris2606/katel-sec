@@ -1,14 +1,37 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "regional": [
+    { "id": 1, "regional": "Regional 1" },
+    { "id": 2, "title": "Regional 2" },
+    { "id": 3, "title": "Regional 3" },
+        { "id": 4, "title": "Regional 4" },
+        { "id": 5, "title": "Regional 5" },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "sla": [
+    ````{ "id": 1, "target": 15810, "bulan": "Jan", "realisasi":0, "regionalId": 1 },
+        { "id": 2, "target": 15810, "bulan": "Feb", "realisasi":0, "regionalId": 1 },
+        { "id": 3, "target": 15810, "bulan": "Mar", "realisasi":0, "regionalId": 1 },
+        { "id": 4, "target": 15810, "bulan": "Apr", "realisasi":0, "regionalId": 1 },
+        { "id": 5, "target": 15810, "bulan": "Mei", "realisasi":0, "regionalId": 1 },
+        { "id": 6, "target": 15810, "bulan": "Jun", "realisasi":0, "regionalId": 1 },
+        { "id": 7, "target": 15810, "bulan": "Jul", "realisasi":0, "regionalId": 1 },
+        { "id": 8, "target": 15810, "bulan": "Agu", "realisasi":0, "regionalId": 1 },
+        { "id": 9, "target": 15810, "bulan": "Sep", "realisasi":0, "regionalId": 1 },
+        { "id": 10, "target": 15810, "bulan": "Okt", "realisasi":0, "regionalId": 1 },
+        { "id": 11, "target": 15810, "bulan": "Nov", "realisasi":0, "regionalId": 1 },
+        { "id": 12, "target": 15810, "bulan": "Des", "realisasi":0, "regionalId": 1 },
+
+        { "id": 13, "target": 15810, "bulan": "Jan", "realisasi":0, "regionalId": 2 },
+        { "id": 14, "target": 15810, "bulan": "Feb", "realisasi":0, "regionalId": 2 },
+        { "id": 15, "target": 15810, "bulan": "Mar", "realisasi":0, "regionalId": 2 },
+        { "id": 16, "target": 15810, "bulan": "Apr", "realisasi":0, "regionalId": 2 },
+        { "id": 17, "target": 15810, "bulan": "Mei", "realisasi":0, "regionalId": 2 },
+        { "id": 18, "target": 15810, "bulan": "Jun", "realisasi":0, "regionalId": 2 },
+        { "id": 19, "target": 15810, "bulan": "Jul", "realisasi":0, "regionalId": 2 },
+        { "id": 20, "target": 15810, "bulan": "Agu", "realisasi":0, "regionalId": 2 },
+        { "id": 21, "target": 15810, "bulan": "Sep", "realisasi":0, "regionalId": 2 },
+        { "id": 22, "target": 15810, "bulan": "Okt", "realisasi":0, "regionalId": 2 },
+        { "id": 23, "target": 15810, "bulan": "Nov", "realisasi":0, "regionalId": 2 },
+        { "id": 24, "target": 15810, "bulan": "Des", "realisasi":0, "regionalId": 2 },
+    
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
