@@ -19,7 +19,6 @@
         { "id": 10, "target": 15810, "bulan": "Okt", "realisasi":0, "regionalId": 1 },
         { "id": 11, "target": 15810, "bulan": "Nov", "realisasi":0, "regionalId": 1 },
         { "id": 12, "target": 15810, "bulan": "Des", "realisasi":0, "regionalId": 1 },
-
         { "id": 13, "target": 15810, "bulan": "Jan", "realisasi":0, "regionalId": 2 },
         { "id": 14, "target": 15810, "bulan": "Feb", "realisasi":0, "regionalId": 2 },
         { "id": 15, "target": 15810, "bulan": "Mar", "realisasi":0, "regionalId": 2 },
@@ -31,7 +30,6 @@
         { "id": 21, "target": 15810, "bulan": "Sep", "realisasi":0, "regionalId": 2 },
         { "id": 22, "target": 15810, "bulan": "Okt", "realisasi":0, "regionalId": 2 },
         { "id": 23, "target": 15810, "bulan": "Nov", "realisasi":0, "regionalId": 2 },
-        { "id": 24, "target": 15810, "bulan": "Des", "realisasi":0, "regionalId": 2 },
-    
+        { "id": 24, "target": 15810, "bulan": "Des", "realisasi":0, "regionalId": 2 }
   ],
 }
